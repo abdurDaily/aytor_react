@@ -1,0 +1,14 @@
+.swiper-pagination{
+  position: absolute;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  text-align: left !important;
+}
+.swiper-pagination-bullet{
+  left: 0 !important;
+  width: 20px !important;
+  height: 5px !important;
+  border-radius: 0 !important;
+  background-color: red !important;
+}
